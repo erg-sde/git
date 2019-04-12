@@ -1,1 +1,2 @@
 Hi Eddie!
+Laz will have a merge conflict when he tries to push.
