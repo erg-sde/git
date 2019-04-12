@@ -1,2 +1,2 @@
 Hi Eddie!
-This is line 2
+This is line 2 of the GitHub HW
